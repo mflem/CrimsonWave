@@ -5,16 +5,23 @@ Crimson Wave is a design for an augmenting a mirror to show where someone is in 
 A Fall 2017 CS 320 Tangible User Interfaces final project developed by Margaret Flemings, Shanzay Kazmi, and Rachel Pak at Wellesley College. This code can be run on the Arduino IDE.
 
 # Materials used
-LightBlue Bean++ <br>
+LightBlue Bean++ 
 
-** If you don't wish to use bluetooth functionality, you may also use an Arduino Uno <br>
+** If you don't wish to use bluetooth functionality, you may also use an Arduino Uno 
 
-NeoPixel 1/4 60 Ring<br>
-NeoPixel Library<br>
-Mirror<br>
+NeoPixel 1/4 60 Ring
+
+NeoPixel Library
+
+Mirror
+
 Fabrication materials & tools: wires, wire cutter/stripper, soldering iron, tape, 3D printed outter layer, flexible cloth 
 
-To include an extra tool for measuring symptoms visually:
+
+<h4>To include an extra tool for measuring symptoms visually:</h4>
+
 Potentiometer 
+
 Individual LEDs
+
 Resistors 
