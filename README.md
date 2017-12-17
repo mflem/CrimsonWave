@@ -21,7 +21,7 @@ A Fall 2017 CS 320 Tangible User Interfaces final project developed by Margaret 
 # Troubleshooting
 Make sure to use 1.6.8 version of the Arduino IDE so that the LightBlue Bean+ works properly.
 
-<h4>Under tools</h4>
+<h4>Under "Tools" on the Arduino IDE</h4>
 
 Board: "LightBlue Bean+"
 
