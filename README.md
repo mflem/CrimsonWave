@@ -7,7 +7,7 @@ A Fall 2017 CS 320 Tangible User Interfaces final project developed by Margaret 
 # Materials used
 LightBlue Bean++ 
 
-** If you don't wish to use bluetooth functionality, you may also use an Arduino Uno 
+<em>** If you don't wish to use bluetooth functionality, you may also use an Arduino Uno </em>
 
 NeoPixel 1/4 60 Ring
 
